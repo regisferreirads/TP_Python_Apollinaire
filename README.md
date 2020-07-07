@@ -1,15 +1,5 @@
-# formation2020
-### Document de formation à Jupyter
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/regisferreiradasilva/formation2020/master?filepath=presentation.ipynb)
+# TP Jupiter Apollinaire
 
 ### Exemple d'environnement
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/regisferreiradasilva/Python_Apollinaire/master?/environnement.ipynb)
 
-### Exemple de TP (appli web)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/regisferreiradasilva/formation2020/master?urlpath=apps/refraction2.ipynb)
-
-### Exemple de TP (notebook)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/regisferreiradasilva/formation2020/master?filepath=refraction2.ipynb)
-
-### Exemple de TP (presentation rise)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/regisferreiradasilva/formation2020/master?filepath=refraction2_pres.ipynb)
