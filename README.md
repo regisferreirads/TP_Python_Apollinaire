@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/regisferreiradasilva/formation2020/master?filepath=presentation.ipynb)
 
 ### Exemple d'environnement
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/regisferreiradasilva/formation2020/master?urlpath=apps/environnement.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/regisferreiradasilva/Python_Apollinaire/master?/environnement.ipynb)
 
 ### Exemple de TP (appli web)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/regisferreiradasilva/formation2020/master?urlpath=apps/refraction2.ipynb)
